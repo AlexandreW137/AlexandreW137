@@ -29,6 +29,6 @@ Eu tenho cursos comprados sobre **Java Script**, **HTML**, **CSS** e **PHP** e t
 
 ## Formas de contato 📞
 
-1. Email📧 - alexandrewayss@yahoo.com.br
-2. Whatsapp💬 - 55997203064
-3. Discord📱 - Alexandre#1307
+1. Email📧 
+2. Whatsapp💬  
+3. Discord📱  
